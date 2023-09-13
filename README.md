@@ -8,4 +8,4 @@ jeu realiste de survie médival
 ![Alt Text](https://cdn.discordapp.com/attachments/899739016256176149/1151466531218268160/do_not_die_1.JPG?width=800&height=500)
 ![Alt Text](https://cdn.discordapp.com/attachments/899739016256176149/1151466531507671120/do_not_die_2.JPG?width=800&height=500)
 ![Alt Text](https://cdn.discordapp.com/attachments/899739016256176149/1151466531834830868/do_not_die_3.JPG?width=800&height=500)
-https://cdn.discordapp.com/attachments/899739016256176149/1151466531218268160/do_not_die_1.JPG
+
